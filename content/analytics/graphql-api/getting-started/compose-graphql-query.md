@@ -120,6 +120,10 @@ a JSON object that defines your variables.
 
 This example query uses the `zoneTag` query variable to represent the zone ID:
 
+<!-- the last screenshot shows zoneTag: "$zoneTa"g", but the we do not need quot.
+Please update the scrrnshot.
+-->
+
 ![Example of GraphiQL query variables][14]
 
 [1]: </analytics/graphql-api/getting-started/querying-basics/>
